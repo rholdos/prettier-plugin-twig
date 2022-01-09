@@ -1,6 +1,6 @@
 {
-  "name": "@prettier/plugin-twig",
-  "description": "Prettier Twig Plugin",
+  "name": "prettier-plugin-twig",
+  "description": "Prettier Twig plugin",
   "version": "1.0.0",
   "license": "GNU",
   "author": "Roman Holdos <rholdos@outlook.sk>",
@@ -8,6 +8,8 @@
     "type": "git",
     "url": "https://github.com/rholdos/prettier-plugin-twig"
   },
+  "main": "src",
+  "files": ["src"],
   "scripts": {
     "prettier": "prettier --plugin=. --parser=melody"
   },
