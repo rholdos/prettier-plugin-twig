@@ -4,8 +4,7 @@ Combines features of [Melody plugin](https://github.com/trivago/prettier-plugin-
 ### Install
 - This plugin works with Prettier installed globally
 - If you don't have any official Prettier plugin installed currently, just create a folder named `@prettier` inside your global node_modules directory
-for example: `~/.nvm/versions/node/v16.13.0/lib/node_modules/@prettier/` on OSX.
-- Copy the `plugin-twig` from repository into this folder. Prettier will automatically recognize and register the plugin, like it would normally do with official ones.
+(for example: `~/.nvm/versions/node/v16.13.0/lib/node_modules/@prettier/` on OSX), and copy the `plugin-twig` from repository into this folder. Prettier will automatically recognize and register the plugin, like it would normally do with official ones.
 - Then just run the `npm install` inside the plugin folder and you're set up.
 
 ### Usage
