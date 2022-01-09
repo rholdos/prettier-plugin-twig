@@ -1,4 +1,5 @@
-This is an unofficial [Prettier](https://github.com/prettier/prettier) plugin for formatting [Twig](https://twig.symfony.com) language. Combines features of [Melody plugin](https://github.com/trivago/prettier-plugin-twig-melody) and those [enhancements](https://github.com/mubaraqwahab/prettier-plugin-twig-enhancements), and wraps the plugin for easier installation.
+This is an unofficial [Prettier](https://github.com/prettier/prettier) plugin for formatting [Twig](https://twig.symfony.com) language.  
+Combines features of [Melody plugin](https://github.com/trivago/prettier-plugin-twig-melody) and those [enhancements](https://github.com/mubaraqwahab/prettier-plugin-twig-enhancements), and wraps the plugin for easier installation.
 
 ### Install
 - This plugin works with Prettier installed globally
