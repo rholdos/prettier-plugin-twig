@@ -1,6 +1,6 @@
 {
   "name": "prettier-plugin-twig",
-  "description": "Prettier Twig plugin",
+  "description": "Prettier plugin for Twig language",
   "version": "1.0.0",
   "license": "GNU",
   "author": "Roman Holdos <rholdos@outlook.sk>",
@@ -21,14 +21,5 @@
     "melody-types": "^1.7.5",
     "prettier": "^1.8.2",
     "resolve": "^1.12.0"
-  },
-  "devDependencies": {
-    "eslint": "^4.14.0",
-    "eslint-config-prettier": "^2.9.0",
-    "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-jest": "^21.5.0",
-    "eslint-plugin-prettier": "^2.4.0",
-    "jest": "^21.1.0",
-    "jest-runner-eslint": "^0.3.0"
   }
 }
